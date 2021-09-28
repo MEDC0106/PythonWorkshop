@@ -19,6 +19,14 @@ computer.
 
 ## Format
 
+This workshop takes place over three sessions
+
+- Session 1
+
+- Session 2
+
+- Session 3
+
 ## License
 
 This work is licensed under the Attribution 4.0 International (CC BY 4.0).
