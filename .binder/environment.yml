@@ -8,3 +8,5 @@ dependencies:
   - numpy
   - pandas
   - biopython
+  - matplotlib
+  - seaborn
