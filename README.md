@@ -29,8 +29,11 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 #### Python packages
 
 - Bioinformatics:
+    - [`biopython`](https://biopython.org/)
     
 - Data Science:
+    - [`numpy`](https://numpy.org/)
+    - [`pandas`](https://pandas.pydata.org/)
 
 - Data Visualisation:
     
