@@ -22,6 +22,7 @@ computer.
 This workshop takes place over three sessions
 
 - Session 1
+    - Introduction to Python
 
 - Session 2
 
