@@ -17,6 +17,8 @@ To get started with the workshop please click here:
 The process may take ~10 minutes to get started, although there is nothing you will need to install on your local
 computer.
 
+## Format
+
 ## License
 
 This work is licensed under the Attribution 4.0 International (CC BY 4.0).
