@@ -1,0 +1,11 @@
+package:
+  name: pythonworkshop
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - numpy
+  - pandas
+
+
+
