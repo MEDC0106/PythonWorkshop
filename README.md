@@ -22,7 +22,10 @@ computer.
 This workshop takes place over three sessions
 
 - Session 1
-    - Introduction to Python
+    1. Introduction to Python
+    2. Introduction to Functions
+    3. Modules and Packages 
+    4. Exercises
 
 - Session 2
 
@@ -45,6 +48,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 - Data Science:
     - [`numpy`](https://numpy.org/)
     - [`pandas`](https://pandas.pydata.org/)
+    - [`scikit-learn`](https://scikit-learn.org/stable/)
 
 - Data Visualisation:
-    
+    - [`matplotlib`](https://matplotlib.org/)
+    - [`seaborn`](https://seaborn.pydata.org/)
