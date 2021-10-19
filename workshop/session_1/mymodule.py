@@ -17,32 +17,44 @@ def make_choice():
 ################### Below functions are for exercises #######################
 
 
-def get_user_choice():
-    """Get a choice from a user input"""
-    while True:
-        user_choice = input('Rock, Paper, Scissors:').strip()
-        if user_choice not in choice_list:
-            print(user_choice, 'is not a valid choice, pick from:', choice_list)
-        else:
-            print('You chose:', user_choice)
-            break
-    return user_choice
+"""
+Complete the function below to print the winner to the screen.
+
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+
+"""
 
 
-# Complete this function!
 def determine_winner(player_choice, computer_choice):
     """Determine if player or cpu won the game"""
     #
     #
     #
     #
-    return
+    #
+    print('Winner cannot be determined (task not completed!)')  # delete this line
+    
+    
+def get_player_choice():
+    """Get a choice from a user input"""
+    while True:
+        player_choice = input('Chose Rock, Paper or Scissors:').strip()
+        if player_choice not in choice_list:
+            print(player_choice, 'is not a valid choice, pick from:', choice_list)
+        else:
+            print('\nYou chose:', player_choice)
+            break
+    return player_choice
 
 
 def play_game():
     """Play a game of rock, paper, scissors"""
-    user_choice = get_user_choice()
+    print('Rock, Paper, Scissors Game!')
+    print('-' * 27, '\n')
+    user_choice = get_player_choice()
     cpu_choice = make_choice()
-    print('Computer chose:', cpu_choice)
+    print('Computer chose:', cpu_choice, '\n')
     determine_winner(user_choice, cpu_choice)
 
