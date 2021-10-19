@@ -13,7 +13,9 @@ def make_choice():
     choice = random.choice(choice_list)
     return choice
 
-################### Below functions are for excersise #######################
+
+################### Below functions are for exercises #######################
+
 
 def get_user_choice():
     """Get a choice from a user input"""
