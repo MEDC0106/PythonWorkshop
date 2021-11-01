@@ -28,6 +28,8 @@ This workshop takes place over three sessions
     4. Exercises
 
 - Session 2
+    1. Introduction to NumPy
+    2. Introduction to Pandas
 
 - Session 3
 
