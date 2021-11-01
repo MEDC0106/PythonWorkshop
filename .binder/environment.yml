@@ -10,3 +10,4 @@ dependencies:
   - biopython
   - matplotlib
   - seaborn
+  - scikit-learn
