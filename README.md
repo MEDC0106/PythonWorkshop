@@ -49,7 +49,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
     - [`biopython`](https://biopython.org/)
     
 - Data Science:
-    - [`numpy`](https://numpy.org/), [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/)
+    - [`numpy`](https://numpy.org/), [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/)
 
 - Data Visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
