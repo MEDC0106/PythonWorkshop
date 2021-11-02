@@ -30,6 +30,7 @@ This workshop takes place over three sessions
 - Session 2
     1. Introduction to NumPy
     2. Introduction to Pandas
+    3. Introduction to Predictive Modelling
 
 - Session 3
 
