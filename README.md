@@ -24,19 +24,23 @@ You should complete the introductory notebooks in the current session before att
 already comfortable with the material. The exercises contain a mix of easy to challenging tasks. Do not worry if you 
 struggle to complete some exercises, we will go over them at the begining of the next session.
 
-- Session 1
+- Session 1 (Introduction to Python)
     1. Introduction to Python
     2. Introduction to Functions
     3. Modules and Packages 
     4. Exercises
 
-- Session 2
+- Session 2 (Introduction to Data Analysis)
     1. Introduction to NumPy
     2. Introduction to Pandas
     3. Introduction to Predictive Modelling
     4. Exercises
 
-- Session 3
+- Session 3 (Bioinformatics with BioPython)
+
+By the end of the sessions you should feel more confident about programming with Python and understand the application
+of programming and Python to domain specific applications. Hopefully you will feel encouraged to learn more and use
+Python/programming in your future research/career.
 
 All the material in these sessions is freely available if you wish to come back to it at a later date to refresh
 your knowledge/skills.
