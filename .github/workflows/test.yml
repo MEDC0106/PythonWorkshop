@@ -16,6 +16,7 @@ jobs:
           activate-environment: pythonworkshop_dev
           environment-file: resources/dev/environment.yml
           python-version: 3.8
+          auto-update-conda: true
           auto-activate-base: false
       - shell: bash -l {0}
         run: |
