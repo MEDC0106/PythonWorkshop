@@ -38,6 +38,9 @@ struggle to complete some exercises, we will go over them at the begining of the
 
 - Session 3
 
+All the material in these sessions is freely available if you wish to come back to it at a later date to refresh
+your knowledge/skills.
+
 ## Contact
 
 Please contact us if you have questions or suggestions:
