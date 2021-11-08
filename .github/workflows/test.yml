@@ -1,0 +1,31 @@
+name: Test PythonWorkshop Notebooks
+on: [push, pull_request]
+jobs:
+  test:
+    name: Miniconda ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: ["ubuntu-lastest", "windows-latest", "macos-latest"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Environment
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: pythonworkshop_dev
+          environment-file: resources/dev/environment.yml
+          python-version: 3.8
+          auto-activate-base: false
+      - shell: bash -l {0}
+        run: |
+          conda info
+          conda list
+      - name: Install Kernel
+        shell: bash -l {0}
+        run: |
+          python -m ipykernel install --user --name pythonworkshop_dev
+      - name: Run Tests
+        shell: bash -l {0}
+        run: |
+          python resources/dev/test.py
