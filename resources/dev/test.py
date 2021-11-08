@@ -22,7 +22,7 @@ REPO_DIR = DEV_DIR.parent.parent.absolute()
 def test_notebook(notebook_path):
     """Test a jupyter notebook."""
     logging.info(f'Testing notebook: {notebook_path}')
-    with open(notebook_path, 'r') as raw_input:
+    with open(notebook_path, 'r', encoding='utf8') as raw_input:
         nb = nbformat.read(raw_input, as_version=4)
     ep = ExecutePreprocessor(
         timeout=600,
