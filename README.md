@@ -19,7 +19,10 @@ computer.
 
 ## Workshop Format
 
-This workshop takes place over three sessions
+This workshop takes place over three sessions, consisting of a set of introductory notebooks and exercises to complete.
+You should complete the introductory notebooks in the current session before attempting the excersises, unless you are
+already comfortable with the material. The exercises contain a mix of easy to challenging tasks. Do not worry if you 
+struggle to complete some exercises, we will go over them at the begining of the next session.
 
 - Session 1
     1. Introduction to Python
