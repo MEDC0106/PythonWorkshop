@@ -3,7 +3,7 @@
 
 # MEDC0106: Python Workshop
 
-This repository contains material for the Bioinformatics in Applied Biomedical Science (MEDC0106) Python workshop.
+This repository contains material for the Bioinformatics in Applied Biomedical Science ([MEDC0106](https://www.ucl.ac.uk/module-catalogue/modules/bioinformatics-in-applied-biomedical-science-MEDC0106)) Python workshop.
 
 <p align="center">
   <img src="resources/static/Banner.png" alt="MEDC0106 Banner" width="800"/>
