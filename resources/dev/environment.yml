@@ -1,0 +1,17 @@
+package:
+  name: pythonworkshop_dev
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.8
+  - numpy
+  - pandas
+  - biopython
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - nbconvert
+  - nbformat
+  - traitlets
