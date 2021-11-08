@@ -54,3 +54,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 - Data Visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
+
+### Authors
+
+- [Oliver Scott](https://github.com/OliverBScott) 
+- [Mateusz Kaczyński](https://github.com/ellimilial)
