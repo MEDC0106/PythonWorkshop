@@ -43,7 +43,7 @@ def main():
     notebooks = sorted(notebook_dir.glob('*/*.ipynb'))
     for notebook in notebooks:
         if 'exercise' in str(notebook).lower():
-            continue  # Don't test exersise
+            continue  # Don't test exercise
         notebook_path = os.path.realpath(notebook)
         test_notebook(notebook_path)
     return 0
