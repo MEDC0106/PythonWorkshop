@@ -14,3 +14,4 @@ dependencies:
   - nbconvert
   - nbformat
   - traitlets
+  - ipykernel
