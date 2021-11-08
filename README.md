@@ -17,7 +17,7 @@ To get started with the workshop please click here:
 The process may take ~10 minutes to get started, although there is nothing you will need to install on your local
 computer.
 
-## Format
+## Workshop Format
 
 This workshop takes place over three sessions
 
@@ -34,6 +34,13 @@ This workshop takes place over three sessions
     4. Exercises
 
 - Session 3
+
+## Contact
+
+Please contact us if you have questions or suggestions:
+
+- Students please use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=20875) discussion forum.
+- Questions regarding bugs or incorrect information please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
 
 ## License
 
@@ -54,6 +61,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 - Data Visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
+
+If we are using your resource and forgot to add it here, please contact us so that we can rectify this, thank you!
 
 ### Authors
 
