@@ -37,6 +37,10 @@ struggle to complete some exercises, we will go over them at the begining of the
     4. Exercises
 
 - **Session 3** (Bioinformatics with BioPython)
+    1. Biopython sequences
+    2. Biopython sequences - exercises
+    3. Biopython proteins 
+    4. Biopython proteins - exercises
 
 By the end of the sessions you should feel more confident about programming with Python and understand the application
 of programming and Python to domain specific applications. Hopefully you will feel encouraged to learn more and use
