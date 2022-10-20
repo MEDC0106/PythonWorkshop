@@ -30,17 +30,17 @@ struggle to complete some exercises, we will go over them at the begining of the
     3. Modules and Packages 
     4. Exercises
 
-- **Session 2** (Introduction to Data Analysis)
-    1. Introduction to NumPy
-    2. Introduction to Pandas
-    3. Introduction to Predictive Modelling
-    4. Exercises
-
-- **Session 3** (Bioinformatics with BioPython)
+- **Session 2** (Bioinformatics with BioPython)
     1. Biopython sequences
     2. Biopython sequences - exercises
     3. Biopython proteins 
     4. Biopython proteins - exercises
+- 
+- **Session 3** (Introduction to Data Analysis)
+    1. Introduction to Pandas
+    2. Introduction to Predictive Modelling
+    3. Exercises
+
 
 By the end of the sessions you should feel more confident about programming with Python and understand the application
 of programming and Python to domain specific applications. Hopefully you will feel encouraged to learn more and use
