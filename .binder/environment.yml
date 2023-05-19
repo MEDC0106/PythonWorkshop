@@ -1,5 +1,4 @@
-package:
-  name: pythonworkshop
+name: pythonworkshop
 channels:
   - conda-forge
   - bioconda
