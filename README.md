@@ -1,3 +1,4 @@
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop).
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/MEDC0106/PythonWorkshop/blob/main/LICENSE)
 
@@ -12,11 +13,17 @@ This repository contains material for the Bioinformatics in Applied Biomedical S
 
 ## Getting Started
 
-To get started with the workshop please click here:
+<p>
+To get started with the workshop please click here: 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop).
+</p>
+
+<p>
+Alternatively, if you prefer not to use Google Colab, use the following link:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main).
 The process may take ~10 minutes to get started, although there is nothing you will need to install on your local
 computer.
-
+</p>
 ## Workshop Format
 
 This workshop takes place over three sessions, consisting of a set of introductory notebooks and exercises to complete.
