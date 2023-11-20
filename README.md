@@ -36,13 +36,14 @@ struggle to complete some exercises, we will go over them at the begining of the
 - **Session 2** (Bioinformatics with BioPython)
     1. Biopython sequences
     2. Biopython sequences - exercises
-    3. Biopython proteins 
-    4. Biopython proteins - exercises
-- 
+    3. (supplementary material) Biopython proteins 
+    4. (supplementary material) Biopython proteins - exercises
+
 - **Session 3** (Introduction to Data Analysis)
     1. Introduction to Pandas
-    2. Introduction to Predictive Modelling
-    3. Exercises
+    2. Exercises
+    3. (supplementary material) Introduction to NumPy 
+    4. (supplementary material) Introduction to Predictive Modelling
 
 
 By the end of the sessions you should feel more confident about programming with Python and understand the application
@@ -56,7 +57,7 @@ your knowledge/skills.
 
 Please contact us if you have questions or suggestions:
 
-- Students please use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=20875) discussion forum.
+- Students please use the UCL Moodle module discussion forum.
 - Questions regarding bugs or incorrect information please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
 
 ## License
@@ -74,7 +75,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
     - [`biopython`](https://biopython.org/)
     
 - Data Science:
-    - [`numpy`](https://numpy.org/), [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/)
+    -  [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/), [`numpy`](https://numpy.org/),
 
 - Data Visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
