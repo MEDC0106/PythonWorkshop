@@ -38,6 +38,9 @@ MANIFEST
 *.manifest
 *.spec
 
+# Ignore temporary stored material
+.virtual_documents/
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
