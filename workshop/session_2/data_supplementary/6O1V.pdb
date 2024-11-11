@@ -28,6 +28,7 @@ KEYWDS    ABC TRANSPORTER, ANION CHANNEL, CYSTIC FIBROSIS, MEMBRANE PROTEIN,
 KEYWDS   2 GLPG1837, HYDROLASE                                                  
 EXPDTA    ELECTRON MICROSCOPY                                                   
 AUTHOR    Z.ZHANG,F.LIU,J.CHEN,A.LEVIT,B.SHOICHET                               
+REVDAT   5   20-MAR-24 6O1V    1       REMARK                                   
 REVDAT   4   27-NOV-19 6O1V    1       REMARK                                   
 REVDAT   3   20-NOV-19 6O1V    1       REMARK                                   
 REVDAT   2   03-JUL-19 6O1V    1       JRNL                                     
@@ -103,7 +104,7 @@ REMARK 245   MINIMUM TILT ANGLE (DEGREES)      : NULL
 REMARK 245   MAXIMUM TILT ANGLE (DEGREES)      : NULL                           
 REMARK 245   NOMINAL CS                        : NULL                           
 REMARK 245   IMAGING MODE                      : BRIGHT FIELD                   
-REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 1.51                           
+REMARK 245   ELECTRON DOSE (ELECTRONS NM**-2)  : 151.00                         
 REMARK 245   ILLUMINATION MODE                 : FLOOD BEAM                     
 REMARK 245   NOMINAL MAGNIFICATION             : NULL                           
 REMARK 245   CALIBRATED MAGNIFICATION          : NULL                           
