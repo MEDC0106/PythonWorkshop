@@ -13,6 +13,7 @@ jobs:
       - name: Setup Environment
         uses: conda-incubator/setup-miniconda@v2
         with:
+          miniconda-version: "latest"  # Added to install Miniconda if missing
           activate-environment: pythonworkshop_dev
           environment-file: resources/dev/environment.yml
           python-version: 3.8
