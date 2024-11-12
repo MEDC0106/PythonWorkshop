@@ -13,14 +13,13 @@ This repository contains material for the Bioinformatics in Applied Biomedical S
 
 ## Getting Started
 
-
 To get started with the workshop please click here: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop).
 
-Alternatively, if you prefer not to use Google Colab, use the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main).
-The process may take ~10 minutes to get started, although there is nothing you will need to install on your local
+Alternatively, if you prefer not to use Colab, click the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main).
+Binder may take ~10 minutes to load, although there is nothing you will need to install on your local
 computer.
 
-## Workshop Format
+## Workshop format
 
 This workshop takes place over three sessions, consisting of a set of introductory notebooks and exercises to complete.
 You should complete the introductory notebooks in the current session before attempting the excersises, unless you are
@@ -28,30 +27,30 @@ already comfortable with the material. The exercises contain a mix of easy to ch
 struggle to complete some exercises, we will go over them at the begining of the next session.
 
 - **Session 1** (Introduction to Python)
-    1. Introduction to Python
-    2. Introduction to Functions
-    3. Modules and Packages 
-    4. Exercises
+    1. (01) Introduction to Python
+    2. (02) Functions
+    3. (03) Modules and packages 
+    4. (04) Exercises
 
 - **Session 2** (Bioinformatics with BioPython)
-    1. Biopython sequences
-    2. Biopython sequences - exercises
-    3. (supplementary material) Biopython proteins 
-    4. (supplementary material) Biopython proteins - exercises
+    1. (05) Handling sequences with Biopython
+    2. (06) Exercises
+    3. (07) Handling protein data with Biopython (supplementary material)
+    4. (08) Supplementary exercises
 
 - **Session 3** (Introduction to Data Analysis)
-    1. Introduction to Pandas
-    2. Exercises
-    3. (supplementary material) Introduction to NumPy 
-    4. (supplementary material) Introduction to Predictive Modelling
+    1. (09) Pandas
+    2. (10) Exercises
+    3. (11) NumPy (supplementary material)
+    4. (12) Predictive modelling (supplementary material)
+    5. (13) Supplementary exercises
 
-
-By the end of the sessions you should feel more confident about programming with Python and understand the application
-of programming and Python to domain specific applications. Hopefully you will feel encouraged to learn more and use
-Python/programming in your future research/career.
+By the end of these sessions you should feel more confident about programming with Python and understand the application
+of programming and Python to specific domains. Hopefully you will feel encouraged to learn more and use
+Python in your research or future career.
 
 All the material in these sessions is freely available if you wish to come back to it at a later date to refresh
-your knowledge/skills.
+your knowledge.
 
 ## Contact
 
@@ -74,10 +73,10 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 - Bioinformatics:
     - [`biopython`](https://biopython.org/)
     
-- Data Science:
+- Data science:
     -  [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/), [`numpy`](https://numpy.org/),
 
-- Data Visualisation:
+- Data visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
 
 If we are using your resource and forgot to add it here, please contact us so that we can rectify this, thank you!
