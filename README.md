@@ -1,4 +1,4 @@
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop).
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/MEDC0106/PythonWorkshop/blob/main/LICENSE)
 
