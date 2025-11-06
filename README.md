@@ -13,17 +13,12 @@ This repository contains material for the Bioinformatics in Applied Biomedical S
 
 ## Getting started
 
-The workshop materials are hosted on [GitHub](https://github.com/MEDC0106/PythonWorkshop).  
-You can run them directly online using either **Google Colab** (requires a Google account but loads quickly) or **Binder** (no login needed, though it may take several minutes to start).  
-Use the buttons above to launch your preferred option.
+The workshop materials are hosted on [GitHub](https://github.com/MEDC0106/PythonWorkshop). You can run them directly online using either **Google Colab** (requires a Google account but loads quickly) or **Binder** (no login needed, though it may take several minutes to start). Use the buttons above to launch your preferred option.
 
 ## Workshop format
 
-The workshop runs over three sessions combining short lectures and self-paced practicals. Each session builds on the previous one.  
-Start with the introductory notebooks before attempting the exercises. We will review the previous session’s exercises at the start of each class.
-
-By the end of the workshop, you should feel confident writing and running Python code, and understand its applications in bioinformatics and data analysis.  
-All material remains available online if you wish to revisit it later.
+The workshop runs over three sessions combining short lectures and self-paced practicals. Each session builds on the previous one. Start with the introductory notebooks before attempting the exercises. We will review the previous session’s exercises at the start of each class.  
+By the end of the workshop, you should feel confident writing and running Python code, and understand its applications in bioinformatics and data analysis. All material remains available online if you wish to revisit it later.
 
 - **Session 1** (Introduction to Python)
     1. (01) Introduction to Python
@@ -51,7 +46,7 @@ For general queries: please post in the [discussion forum](https://moodle.ucl.ac
 For direct or more specific help:
 - Mateusz Kaczyński – [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
 - Florion Peni – [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
-  
+
 For bugs or incorrect information, please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
 
 ## License
