@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/MEDC0106/PythonWorkshop/blob/main/LICENSE)
 
-# MEDC0106: Python Workshop
+# MEDC0106: Python workshop
 
 This repository contains material for the Bioinformatics in Applied Biomedical Science ([MEDC0106](https://www.ucl.ac.uk/module-catalogue/modules/bioinformatics-in-applied-biomedical-science-MEDC0106)) Python workshop.
 
@@ -11,20 +11,19 @@ This repository contains material for the Bioinformatics in Applied Biomedical S
   <br>
 </p>
 
-## Getting Started
+## Getting started
 
-To get started with the workshop please click here: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0106/PythonWorkshop).
-
-Alternatively, if you prefer not to use Colab, click the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0106/PythonWorkshop/main).
-Binder may take ~10 minutes to load, although there is nothing you will need to install on your local
-computer.
+The workshop materials are hosted on [GitHub](https://github.com/MEDC0106/PythonWorkshop).  
+You can run them directly online using either **Google Colab** (requires a Google account but loads quickly) or **Binder** (no login needed, though it may take several minutes to start).  
+Use the buttons above to launch your preferred option.
 
 ## Workshop format
 
-This workshop takes place over three sessions, consisting of a set of introductory notebooks and exercises to complete.
-You should complete the introductory notebooks in the current session before attempting the excersises, unless you are
-already comfortable with the material. The exercises contain a mix of easy to challenging tasks. Do not worry if you 
-struggle to complete some exercises, we will go over them at the begining of the next session.
+The workshop runs over three sessions combining short lectures and self-paced practicals. Each session builds on the previous one.  
+Start with the introductory notebooks before attempting the exercises. We will review the previous session’s exercises at the start of each class.
+
+By the end of the workshop, you should feel confident writing and running Python code, and understand its applications in bioinformatics and data analysis.  
+All material remains available online if you wish to revisit it later.
 
 - **Session 1** (Introduction to Python)
     1. (01) Introduction to Python
@@ -45,19 +44,15 @@ struggle to complete some exercises, we will go over them at the begining of the
     4. (12) Predictive modelling (supplementary material)
     5. (13) Supplementary exercises
 
-By the end of these sessions you should feel more confident about programming with Python and understand the application
-of programming and Python to specific domains. Hopefully you will feel encouraged to learn more and use
-Python in your research or future career.
-
-All the material in these sessions is freely available if you wish to come back to it at a later date to refresh
-your knowledge.
-
 ## Contact
 
-Please contact us if you have questions or suggestions:
+For general queries: please post in the [discussion forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=7748974) so others can benefit.
 
-- Students please use the UCL Moodle module discussion forum.
-- Questions regarding bugs or incorrect information please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
+For direct or more specific help:
+- Mateusz Kaczyński – [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
+- Florion Peni – [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
+  
+For bugs or incorrect information, please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
 
 ## License
 
@@ -66,9 +61,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 ## Acknowledgments
 
-### External resources
-
-#### Python packages
+### Python packages
 
 - Bioinformatics:
     - [`biopython`](https://biopython.org/)
@@ -79,7 +72,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 - Data visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
 
-If we are using your resource and forgot to add it here, please contact us so that we can rectify this, thank you!
+If we are using your resource and forgot to add it here, please contact us so that we can rectify this. Thank you!
 
 ### Authors
 
