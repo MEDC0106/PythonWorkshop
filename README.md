@@ -47,7 +47,7 @@ For direct or more specific help:
 - Mateusz Kaczyński – [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
 - Florion Peni – [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
 
-For bugs or incorrect information, please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls)
+For bugs or incorrect information, please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls).
 
 ## License
 
@@ -62,7 +62,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
     - [`biopython`](https://biopython.org/)
     
 - Data science:
-    -  [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/), [`numpy`](https://numpy.org/),
+    -  [`pandas`](https://pandas.pydata.org/), [`scikit-learn`](https://scikit-learn.org/stable/), [`scipy`](https://scipy.org/), [`numpy`](https://numpy.org/)
 
 - Data visualisation:
     - [`matplotlib`](https://matplotlib.org/), [`seaborn`](https://seaborn.pydata.org/)
