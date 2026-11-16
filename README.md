@@ -44,8 +44,8 @@ By the end of the workshop, you should feel confident writing and running Python
 For general queries: please post in the [discussion forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=7748974) so others can benefit.
 
 For direct or more specific help:
-- Mateusz Kaczyński – [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
 - Florion Peni – [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
+- Shangbo Cai - [shangbo.cai.23@ucl.ac.uk](mailto:shangbo.cai.23@ucl.ac.uk)
 
 For bugs or incorrect information, please [open an issue](https://github.com/MEDC0106/PythonWorkshop/issues) or [pull request](https://github.com/MEDC0106/PythonWorkshop/pulls).
 
@@ -73,3 +73,4 @@ If we are using your resource and forgot to add it here, please contact us so th
 
 - [Oliver Scott](https://github.com/OliverBScott) 
 - [Mateusz Kaczyński](https://github.com/ellimilial)
+- [Florion Peni](https://github.com/florionpeni)
