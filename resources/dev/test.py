@@ -22,6 +22,16 @@ def test_notebook(notebook_path):
     logging.info(f'Testing notebook: {notebook_path}')
     with open(notebook_path, 'r', encoding='utf8') as raw_input:
         nb = nbformat.read(raw_input, as_version=4)
+    if pathlib.Path(notebook_path).name == '07_supplementary_biopython_proteins.ipynb':    # Skip the live NCBI BLAST section during automated tests.
+        test_cells = []
+        in_blast_section = False
+        for cell in nb.cells:
+            heading = cell.source.strip().partition('\n')[0]
+            if cell.cell_type == 'markdown' and heading.startswith('## '):
+                in_blast_section = heading == '## BLAST'
+            if not in_blast_section:
+                test_cells.append(cell)
+        nb.cells = test_cells
     ep = ExecutePreprocessor(
         timeout=600,
         allow_errors=False,
